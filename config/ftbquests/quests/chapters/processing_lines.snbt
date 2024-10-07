@@ -14,9 +14,9 @@
 				"72861B317663600B"
 			]
 			description: [
-				"The final step. Combine &6Pulsating Dust&r and &6Resonant Clathrate&r to make &6Pulsating Polymer Clay&r. "
+				"The final step. Combine &6Pulsating Dust&r and &6Resonant Clathrate&r to make &6Pulsating Prediction Matrixes&r. "
 				""
-				"Take note that a &3&3Chemical Reactor&r making &6Resonant Clathrate&r will supply 1 &3Alloy Smelter&r of the same tier, and that one &bMV &3Alloy Smelter&r making &6Pulsating Polymer Clay&r supports 10.03 &3Simulation Chambers&r, with each higher tier doubling the amount of &3Simulation Chambers&r it supports."
+				"Take note that a &3&3Chemical Reactor&r making &6Resonant Clathrate&r will supply 1 &3Alloy Smelter&r of the same tier, and that one &bMV &3Alloy Smelter&r making &6Pulsating Prediction Matrixes&r supports 10.03 &3Simulation Chambers&r, with each higher tier doubling the amount of &3Simulation Chambers&r it supports."
 			]
 			id: "261F7D50E23B0789"
 			size: 2.0d
@@ -214,7 +214,7 @@
 		}
 		{
 			description: [
-				"&9Water&r can be achieved in many ways, but the most notable are: &6Water Collectors&r, which are very slow, but cheap, &bThermal &6Aqueous Accumulators&r, which are a bit more expensive but way faster, &bGregTech &6Infinite Water Covers&r, which is much more expensive, but is a cover, therefore saving space, and makes water 16x faster than &6Accumulators&r."
+				"&9Water&r can be achieved in many ways, but the most notable are: &6Water Collectors&r, which are very slow but cheap; &bThermal &6Aqueous Accumulators&r, which are a bit more expensive but way faster; &bGregTech &6Infinite Water Covers&r, which are much more expensive, but save space due to being a cover. They make water 16x faster than &6Accumulators&r."
 				""
 				"Right now, you should probably use the &6Aqueous Accumulator&r."
 				""
@@ -289,7 +289,7 @@
 			description: [
 				"&6Lava&r can be achieved in two main ways. The first is using a &3Chemical Reactor&r to turn &6Magma Blocks&r into &6Lava&r. The second is using a &bGregTech &6Fluid Drill&r in the Nether above a &6Lava&r vein."
 				""
-				"In this case, you'll need &6Lava&r for &6Netherrack&r. You won't need much, although &6Lava&r can also be centrifuged for useful resources, and will be used heavily in the End Game for &6Lava Infused Crystals&r."
+				"In this case, you'll need &6Lava&r for &6Netherrack&r. You won't need much, although &6Lava&r can also be centrifuged for useful resources."
 			]
 			icon: "minecraft:lava_bucket"
 			id: "36100ACD3655DAFF"
@@ -359,7 +359,7 @@
 		{
 			dependencies: ["21654B6E703A2923"]
 			description: [
-				"Break up your &6Sandstone&r into &6Saltpeter&r. This is probably the best way to get &6Saltpeter&r, which you'll need a lot for &6Aerotheum Dust&r. You can also get &6Saltpeter&r from &bHostile Neural Networks&r."
+				"Break up your &6Sandstone&r into &6Saltpeter&r. This is probably the best way to get &6Saltpeter&r, which you'll need a lot of for &6Aerotheum Dust&r. You can also get &6Saltpeter&r from &bHostile Neural Networks&r."
 				""
 				"You can also electrolyse it for &6Potassium&r, although it isn't recommended because of how easily you can get &6Potassium&r, such as from &9Deepslate &3Processing&r, and how much &6Saltpeter&r it costs."
 			]
@@ -387,7 +387,7 @@
 		}
 		{
 			dependencies: ["599012DB0B179B3B"]
-			description: ["Seperate your &6Quartz Sand&r into &6Quartzite Dust&r and &6Certus Quartz Dust&r. This is a good renewable source of &6Certus Quartz&r, which you need for &bApplied Energistics 2&r."]
+			description: ["Separate your &6Quartz Sand&r into &6Quartzite Dust&r and &6Certus Quartz Dust&r. This is a good renewable source of &6Certus Quartz&r, which you need for &bApplied Energistics 2&r."]
 			id: "201B129579ACF449"
 			subtitle: "&oThis step requires a Centrifuge at voltage &lLV&r&o or higher.&r"
 			tasks: [
@@ -455,7 +455,7 @@
 		}
 		{
 			dependencies: ["69BFFF8BFB3B3B5C"]
-			description: ["Seperate your &6Glass Dust&r into &6Silicon Dioxide Dust&r. Can be electrolysed into useful resources."]
+			description: ["Separate your &6Glass Dust&r into &6Silicon Dioxide Dust&r. Can be electrolysed into useful resources."]
 			id: "3B8EFDA817243B9F"
 			subtitle: "&oThis step requires a Centrifuge at voltage &lLV&r&o or higher.&r"
 			tasks: [{
@@ -481,7 +481,7 @@
 		}
 		{
 			dependencies: ["33351123F08D92BE"]
-			description: ["Break up your &6Sand&r into &6Quartz&r. An &3Arc Furnace&r making &6Glass&r supports 2.5 &3Electrolysers&r of the same tier. You will need a lot of &6Quartz&r, so its crucial that you passive this."]
+			description: ["Break up your &6Glass&r into &6Quartz&r. An &3Arc Furnace&r making &6Glass&r supports 2.5 &3Electrolysers&r of the same tier. You will need a lot of &6Quartz&r, so it's crucial that you passive this."]
 			id: "6792DF5F9F320B98"
 			subtitle: "&oThis step requires a Electrolyser at voltage &lLV&r&o or higher.&r"
 			tasks: [{
@@ -533,7 +533,7 @@
 		}
 		{
 			dependencies: ["749281AED88852C2"]
-			description: ["Break up your &6Sand&r into &6Quartz&r. An &3Arc Furnace&r making &6Glass&r supports 2.5 &3Electrolysers&r of the same tier. You will need a lot of &6Quartz&r, so its crucial that you passive this."]
+			description: ["Break up your &6Glass&r into &6Quartz&r. An &3Arc Furnace&r making &6Glass&r supports 2.5 &3Electrolysers&r of the same tier. You will need a lot of &6Quartz&r, so it's crucial that you passive this."]
 			id: "3BC7B5321B707F78"
 			subtitle: "&oThis step requires a Electrolyser at voltage &lLV&r&o or higher.&r"
 			tasks: [{
@@ -601,7 +601,7 @@
 		{
 			dependencies: ["57E7182198B2EA9A"]
 			description: [
-				"&9Water&r can be achieved in many ways, but the most notable are: &6Water Collectors&r, which are very slow, but cheap, &bThermal &6Aqueous Accumulators&r, which are a bit more expensive but way faster, &bGregTech &6Infinite Water Covers&r, which is much more expensive, but is a cover, therefore saving space, and makes water 16x faster than &6Accumulators&r."
+				"&9Water&r can be achieved in many ways, but the most notable are: &6Water Collectors&r, which are very slow but cheap; &bThermal &6Aqueous Accumulators&r, which are a bit more expensive but way faster; &bGregTech &6Infinite Water Covers&r, which are much more expensive, but save space due to being a cover. They make water 16x faster than &6Accumulators&r."
 				""
 				"Right now, you should probably use the &6Aqueous Accumulator&r."
 				""
