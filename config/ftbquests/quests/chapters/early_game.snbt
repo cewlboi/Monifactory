@@ -1946,7 +1946,7 @@
 		{
 			dependencies: ["73C1AB31431B5C11"]
 			description: [
-				"Holding one of these reveals &aTravel Anchors&r and &aTelepads&r in range."
+				"Holding one of these reveals &aTravel Anchors&r in range."
 				""
 				"Shift + right-click after aiming to warp to one, or point it anywhere to teleport forward a short distance (works through walls)."
 				""
@@ -2152,7 +2152,7 @@
 				"IV - Lumium "
 				"LuV - Signalum "
 				"ZPM - Enderium "
-				"UV - cryolobus "
+				"UV - Cryolobus "
 				"MAX - &2kubejs Superconductor&r, Omnium"
 				""
 				"&2There are an additional set of superconductors, one for each tier, which are the CEu default superconductors. Their advantage is their higher amperage rating, reaching the hundreds of amps for higher tier 16x wires. They are also used in crafting Field Generators. They are:"
