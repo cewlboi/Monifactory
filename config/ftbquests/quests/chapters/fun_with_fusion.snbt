@@ -58,7 +58,7 @@
 				""
 				"&6Trinium&r can come from &6Kaemanite Ore&r, but you will probably want to bolster its production with &6Naquadah Dust&r processing. It comes out at the second stage, so if you don't mind storing the intermediates and have Fluorine under control, you can hold off doing the full chain if you don't need to yet. You get &91 Trinium per 6 Naquadah processed&r."
 				""
-				"This will be required in large quantities for &6Trinium Coils&r, &6Superconducting Coil Blocks&r, &6Naquadah Alloy&r, among other things. You will need 14 stacks at least for a &3Fusion Reactor Mk1&r, so stock up on it."
+				"This will be required in large quantities for &6Trinium Coils&r, &6Superconducting Coil Blocks&r, &6Naquadah Alloy&r, among other things. You will need at least 14 stacks for a &3Fusion Reactor Mk1&r, so stock up on it."
 			]
 			id: "57627DCF9F46A8E2"
 			size: 1.0d
@@ -156,7 +156,7 @@
 				""
 				"&bYes, the Fusion Glass is the same tier as last time, but the Fusion Machine Casings are more expensive.&r"
 				""
-				"Make sure your using &6ZPM Energy Hatches&r!"
+				"Make sure you're using &6ZPM Energy Hatches&r!"
 				""
 				"If you insist on upgrading instead of making a new one, don't dismantle the current one before you're sure you've got everything you need to upgrade it, or you might end up having to rebuild the &3Mark 1 Fusion Reactor&r again."
 				""
@@ -368,8 +368,8 @@
 		{
 			dependencies: ["3FFC053E3E11D586"]
 			description: [
-				"&bUV&r Machine Hulls. The second last Machine Hull. &bUV&r stands for &bUltimate Voltage&r."
-				""
+				"&bUV&r Machine Hulls. The second-to-last Machine Hull. &bUV&r stands for &bUltimate Voltage&r."
+				""	
 				"This Hull is made with &2Darmstadtium, Yttrium Barium Cuprate Cables, and Polybenzimidazole.&r"
 				""
 				"You'll need it mainly for the &6Fusion Reactor MK 3&r."
@@ -450,7 +450,7 @@
 				""
 				"Thorium-Bred Uranium, or &6TBU&r for short, is made from nine clumps of &6Thorium 232&r, made from Thorium enriched in a &3Thermal Centrifuge&r."
 				""
-				"This fuel is processed in your &3Fission Reactor&r by placing it in the controller. When a redstone signal is applied it will burn the fuel, generating some power from the reactor and after a while you'll get a &6Depleted TBU Fuel&r&r."
+				"This fuel is processed in your &3Fission Reactor&r by placing it in the controller. When a redstone signal is applied it will burn the fuel, generating some power from the reactor and after a while you'll get &6Depleted TBU Fuel&r&r."
 				""
 				"The depleted fuel provides tiny clumps of &6Uranium 233&r, &6Uranium 235&r, &6&6Neptunium 236&r, and &6Neptunium 237&r."
 			]
@@ -475,7 +475,7 @@
 			description: [
 				"When you have enough materials, you can craft Uranium isotope clumps into Low-Enriched Uranium 235 Fuel (or &6LEU-235&r, for short). This fuel uses an 8:1 ratio of U238 to U235."
 				""
-				"This fuel is processed in your &3Fission Reactor&r by placing it in the controller. When a redstone signal is applied it will burn the fuel, generating some power from the reactor and after a while you'll get a &6Depleted LEU-235 Fuel&r."
+				"This fuel is processed in your &3Fission Reactor&r by placing it in the controller. When a redstone signal is applied it will burn the fuel, generating some power from the reactor and after a while you'll get &6Depleted LEU-235 Fuel&r."
 				""
 				"The depleted fuel is separated in a regular &3Centrifuge&r, resulting in many tiny clumps of fissile materials: Uranium 238, &6Neptunium 237&r, &6Plutonium 239&r, and &6Plutonium 241&r."
 			]
@@ -1123,7 +1123,7 @@
 		{
 			dependencies: ["115B96B2092D671E"]
 			description: [
-				"Once you scan and make make your first &6UV Circuits&r and &6ZPM Field Generators&r, you can upgrade your &3HPCA Computing Components&r to &3Advanced Components&r. These produce &d16 CWU/t&r each and require &d4 Cooling&r each."
+				"Once you scan and make your first &6UV Circuits&r and &6ZPM Field Generators&r, you can upgrade your &3HPCA Computing Components&r to &3Advanced Components&r. These produce &d16 CWU/t&r each and require &d4 Cooling&r each."
 				""
 				"With them, you can upgrade a single HPCA to produce &d32 CWU/t&r total - enough for basic &6UV components&r, and the &3Network Switch&r, which will allow you to go higher."
 			]
