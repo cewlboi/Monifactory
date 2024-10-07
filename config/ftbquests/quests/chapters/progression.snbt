@@ -699,9 +699,9 @@
 				"&6* Tungstate Ore"
 				"&6* Radium Salt&r"
 				""
-				"As well as the &6Stellar Creation Data&r, which will be useful much, much later."
+				"...as well as &6Stellar Creation Data&r, which will be useful much, much later."
 				""
-				"&2A new mission is available in CEu. This mission costs HV Electric Pumps and Cryotheum Dust. This nets you Solidified Neon, Xenon and Krypton, although it is better to get those from distilling Liquid Nether and Ender Air, as of the useful byproducts you get, and the tiny amount of each element you get in this mission."
+				"&2A new mission is available in CEu, which costs HV Electric Pumps and Cryotheum Dust. This nets you Solidified Neon, Xenon and Krypton. However, it is better to get those from distilling Liquid Nether and Ender Air, as you get useful byproducts, because you only get a tiny amount of each element from this mission."
 			]
 			disable_toast: true
 			id: "472AEEB068D18244"
@@ -770,7 +770,7 @@
 				""
 				"This miner is the first convenient source of &6Osmium&r and &6Iridium&r, via a mission requiring &6Wither Realm Data&r."
 				""
-				"A &6Composition Sensor&r instead directs the miner to obtain &6Dense Oilsands Ore&r, equivalent to &232&r stacks of &6End Oilsands Ore&r, and 32 &6Compressed Infinity Dust Blocks&r, equivalent to 2592 &6Infinity Dust&r."
+				"An &6Advanced Power Thruster&r instead directs the miner to obtain &6Dense Oilsands Ore&r, equivalent to &232&r stacks of &6End Oilsands Ore&r, and 32 &6Compressed Infinity Dust Blocks&r, equivalent to 2592 &6Infinity Dust&r."
 				""
 				"When equipped with a &6Gemstone Sensor&r:"
 				"&6* Dense Lapis Ore"
@@ -852,9 +852,9 @@
 				"0B6196692F9E176D"
 			]
 			description: [
-				"The source of &6Warden Hearts&r and the valuable &6Lair of The Warden Data&r."
+				"The source of &6Warden Hearts&r and valuable &6Lair of The Warden Data&r."
 				""
-				"As a bonus, brings &6Sculk Catalysts, Warden Tendrils&r, &2Ruthenium Blocks&r and a plenty of different precious metals and gems."
+				"As a bonus, brings &6Sculk Catalysts, Warden Tendrils&r, &2Ruthenium Blocks&r and plenty of different precious metals and gems."
 			]
 			disable_toast: true
 			id: "66BD8FA2507509A9"
@@ -1183,7 +1183,7 @@
 				"41FA85A3920EB334"
 				"4CA5BA3F11169D79"
 			]
-			description: ["&2Trinium Coils&r are the eight coiil material available, increasing your EBF's operating temperature to 9001K so it can process more advanced materials."]
+			description: ["&2Trinium Coils&r are the seventh coil material available, increasing your EBF's operating temperature to 9001K so it can process more advanced materials."]
 			disable_toast: true
 			id: "4FEF99FCFEC947C9"
 			shape: "hexagon"
@@ -1594,7 +1594,7 @@
 		}
 		{
 			dependencies: ["5601A05D8361551D"]
-			description: ["The MAX voltage lacks machines to call it's own, with the primary usage of it's circuits being to craft the quantum chest."]
+			description: ["The MAX voltage lacks machines to call its own, with the primary usage of its circuits being to craft the quantum chest."]
 			icon: "gtceu:max_machine_hull"
 			id: "11FDFB08CD48D66E"
 			subtitle: "There can be only one!"
@@ -1696,7 +1696,7 @@
 				"68734C70E2D19616"
 				"1E36AFB19932C805"
 			]
-			description: ["Lets put all of this together to create the final circuit tier."]
+			description: ["Let's put all of this together to create the final circuit tier."]
 			id: "5A8D2BFAF02E6325"
 			shape: "hexagon"
 			subtitle: "The Beginning of The End"
@@ -2117,7 +2117,7 @@
 				""
 				"- Your AE network through &bGregTech&r &3Hulls&r (of any tier)."
 				""
-				"- Players through &3Iron Doors&r. The room remains clean when doors are opened."
+				"- Players through any kind of &3Door&r. The room remains clean when doors are opened."
 				"{@pagebreak}"
 				"Apart from the \"official\" solutions, non-physical methods of transfer such as &3Ender Chests&r might be effective. &bApplied Energistics&r &3P2P Tunnels&r may also fit your liking."
 				""
@@ -2226,7 +2226,7 @@
 			description: [
 				"The first Mainframe you'll have to contend with."
 				""
-				"This is the first Tier Five circuit available, and consequently the most expensive to make. as always, invest in the next circuit theme to get to cheaper recipes as soon as possible."
+				"This is the first Tier Five circuit available, and consequently the most expensive to make. As always, invest in the next circuit theme to get to cheaper recipes as soon as possible."
 			]
 			id: "39FD6F1076559156"
 			rewards: [{
@@ -2270,7 +2270,7 @@
 				"5B9F1EE13E397DEE"
 			]
 			description: [
-				"&2You can start to churn out Nanoprocessors&r. These are the best kind of Tier One circuits you can make, and you won't unlock the better recipes for quite a while."
+				"&2You can start to churn out Nanoprocessors&r. These are the best kind of Tier Three circuits you can make, and you won't unlock the better recipes for quite a while."
 				""
 				"You should absolutely automate the production of these circuits, and &ekeep a stockpile automatically crafted&r so you don't have to wait around for them or bloat your crafting orders making them on-demand through AE."
 			]
@@ -2876,7 +2876,7 @@
 			description: [
 				"Taking a look at the &6Corrupted Universe Data&r has given you a couple of ideas, but to properly take advantage of it, a new microminer is needed."
 				""
-				"This microminer requires a Epic Extended Crafting Table to fit all the things required for a foray into a corrupted universe."
+				"This microminer requires an Epic Extended Crafting Table to fit all the things required for a foray into a corrupted universe."
 			]
 			hide_dependency_lines: true
 			id: "035F72A2CBF8E13D"
