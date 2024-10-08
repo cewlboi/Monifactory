@@ -49,7 +49,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "The &aME Controller&r acts as the `brain' and a bit of power storage for an &eME Network&r."
+			subtitle: "The &aME Controller&r acts as the 'brain' and a bit of power storage for an &eME Network&r."
 			tasks: [{
 				id: "34FE8D1065808917"
 				item: "ae2:controller"
