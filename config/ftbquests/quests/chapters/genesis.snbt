@@ -37,7 +37,7 @@
 				""
 				"[\"\",{\"text\":\"If you find something broken/missing/etc, make an issue on the \",\"color\":\"blue\"},{\"text\":\"Monifactory repository\",\"color\":\"blue\",\"underlined\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/thepansmith/monifactory\"}},{\"text\":\", or submit a Pull Request to fix it yourself.\",\"color\":\"blue\"}]"
 				""
-				"Do note that a decent number of mods in this pack are also in alpha or beta as well, so before reporting an issue, make sure that the issue can not be replicated with the mod on it's own, and if it can, report it to the mod's repository instead."
+				"Do note that a decent number of mods in this pack are also in alpha or beta as well, so before reporting an issue, make sure that the issue can not be replicated with the mod on its own, and if it can, report it to the mod's repository instead."
 			]
 			hide: false
 			icon: "thermal:nuke_tnt"
@@ -347,7 +347,7 @@
 			description: [
 				"&bSophisticated Storage&r and &bSophisticated Backpacks&r are great options for storing items, both at base and on the go, as well as offering a variety of both helpful and fun upgrades."
 				""
-				"&bSophisticated Storage&r in particular is great for cheap storage, able to store 3 barrels worth of items at it's lowest tier, costing only a bit of iron to craft, and can be upgraded with barrel upgrades to hold even more items and upgrades."
+				"&bSophisticated Storage&r in particular is great for cheap storage. It's able to store 3 barrels' worth of items at its lowest tier, costs only a bit of iron to craft, and can be upgraded with barrel upgrades to hold even more items and upgrades."
 			]
 			id: "61E5D7EEE745C6FB"
 			rewards: [{
@@ -487,7 +487,7 @@
 				""
 				"Let's start with &9[+]&r, as it's the simplest: right-click a crafting table, look up the recipe you need and press the &9[+]&r button: if you have all required items for the recipe, this will put them all into the crafting table for you."
 				""
-				"&c[❤]&r and &a[┴]&r are used in tandem to create &arecipe trees&r. Pressing &a[┴]&r will pull up a &arecipe tree&r for that given item. Pressing &c[❤]&r on a recipe will mark it as the &cdefault recipe&r for that item, and will show that recipe (and the items used to craft it) in &arecipe trees&r. You can then add &cdefault recipes&r for the items used to craft that recipe, repeat ad nauseam. Note that you can click on a item in the &arecipe tree&r and it's recipes will be pulled up."
+				"&c[❤]&r and &a[┴]&r are used in tandem to create &arecipe trees&r. Pressing &a[┴]&r will pull up a &arecipe tree&r for that given item. Pressing &c[❤]&r on a recipe will mark it as the &cdefault recipe&r for that item, and will show that recipe (and the items used to craft it) in &arecipe trees&r. You can then add &cdefault recipes&r for the items used to craft that recipe, repeat ad nauseam. Note that you can click on a item in the &arecipe tree&r and its recipes will be pulled up."
 				"{@pagebreak}"
 				"In the &arecipe tree&r GUI, you can change the batch size by scrolling on the number to the right of the final result. Finally, and most importantly, you can press the &6Magnifying Glass&r to switch to &6Crafting Tree Mode&r, this will &edisplay the items that you need for every step to craft the number of items that you specified&r in your sidebar, and will dynamically update as you craft items. You can click on these &6Synthetic Favorites&r with your Craft to Inventory bind (unbinded by default) to &eautomatically craft and then push items back into your inventory&r when using a crafting table, or push the exact number of items needed if using a different inventory.&r"
 				""
@@ -510,9 +510,9 @@
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
 			description: [
-				"The &eTool Belt&r is a item, which can store your tools, and exchange them easily! Right now, it has 2 slots, but later, once you unlock &6Steel&r, you can upgrade it with &6Belt Pouches&r, all the way to 9 slots, with an &3Anvil&r and some &aXP&r!"
+				"The &eTool Belt&r is a item which can store your tools and exchange them easily! Right now it has 2 slots, but later, once you unlock &6Steel&r, you can upgrade it all the way to 9 slots with &6Belt Pouches&r, an &3Anvil&r and some &aXP&r!"
 				""
-				"Make the Tool Belt, and you can use the keybind (default is `R'), while the belt is in your inventory or Bauble Slots &cand you are holding something, or the belt is not empty&r, to open its GUI. "
+				"Make the Tool Belt, and you can use the keybind (default is 'R'), while the belt is in your inventory or Bauble Slots &cand you are holding something, or the belt is not empty&r, to open its GUI. "
 				""
 				"Alternatively, you can right click while holding the belt to open its inventory."
 				"{@pagebreak}"
@@ -552,7 +552,7 @@
 		}
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
-			description: ["&3Iron Furnaces&f can smelt an item in &a160 ticks&f, which is somewhat faster than a vanilla &6Furnace&f, which takes &a200 ticks&f. The fuel efficiency remains the same for all furnaces."]
+			description: ["&3Iron Furnaces&f can smelt an item in &a160 ticks&f, which is somewhat faster than a vanilla &6Furnace&f at &a200 ticks&f. The fuel efficiency remains the same for all furnaces."]
 			id: "7865CDE5CFE005DC"
 			rewards: [{
 				id: "55F7CA98F66953A1"
@@ -979,7 +979,7 @@
 			description: [
 				"&6Redstone&f: Found only deep in the world, in massive veins paired with &6Cinnabar&f and &6Ruby&f."
 				""
-				"&6Copper&f: Two primary sources. &6Tetrahedrite&f veins are higher up, while &6Chalcopyrite&f veins are lower, paired with some small amounts of &6Iron&f. You'll also find &6Malachite&f inside of Iron veins, this is another type of copper ore."
+				"&6Copper&f: Two primary sources. &6Tetrahedrite&f veins are higher up, while &6Chalcopyrite&f veins are lower, paired with some small amounts of &6Iron&f. You'll also find &6Malachite&f inside of Iron veins; this is another type of copper ore."
 				""
 				"&6Tin&f: Found essentially at ground level. &6Cassiterite&f is another type of tin ore, and they're always found together. If you cannot find a vein of tin, there are small amounts of tin inside veins of &6Aluminium&f and &6Rock Salt&f, which might be enough to hold you over until you find a proper tin vein."
 				""
@@ -1069,7 +1069,7 @@
 			description: [
 				"Although most &ealloys&f require an &3Alloy Smelter&f, some alloys can be made simply by mixing the correct metal dusts together. "
 				""
-				"&9Steel is one of these alloys, being made by mixing wrought iron dust with coal dust or charcoal dust&r. &2Steel forms the basis of LV Machine Hulls&r, and allows you to make &6Belt Pouches&r, for upgrading your &eTool Belt&r."
+				"&9Steel is one of these alloys, being made by mixing wrought iron dust with coal dust or charcoal dust&r. &2Steel forms the basis of LV Machine Hulls&r, and allows you to make &6Belt Pouches&r for upgrading your &eTool Belt&r."
 			]
 			id: "17312BF0197B87A8"
 			rewards: [{
@@ -1095,7 +1095,7 @@
 				""
 				"Feeding a &3Steam Dynamo&f with water by hand is a pretty silly idea."
 				""
-				"A &6Water Collector&f will take care of that for you, albeit slowly. It does, however, auto-output the water to making it simple to use."
+				"A &6Water Collector&f will take care of that for you, albeit slowly. It does, however, auto-output the water, making it simple to use."
 				""
 				"&2GTCEu has a Primitive Water Pump, which can do it faster. However, it requires Treated Wood, which requires Creosote from a Coke Oven."
 			]
@@ -1765,7 +1765,7 @@
 				"{@pagebreak}"
 				"The Energy Converter transforms RF power into EU, outputting the resulting EU through the side with a red dot. The orientation can be adjusted using a &aWrench&r. Attach your &6Conductive Iron Wires&r to the output side of the Energy Converter."
 				""
-				"Now all you need are some &bGregTech&r machines to power up! You can make whatever you want, but its recommended that you get these two first:"
+				"Now all you need are some &bGregTech&r machines to power up! You can make whatever you want, but it's recommended that you get these two first:"
 				""
 				"The &6Wiremill&r will make crafting wires much, much easier."
 				""
@@ -1821,7 +1821,7 @@
 				""
 				"[\"You will accumulate a lot of \",{\"text\":\"Monicoins\",\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"kubejs:moni_quarter\"}}},\" from quest turn-ins while playing monifactory. Do not be hesitant to spend them on things you need!\"]"
 				""
-				"[\"Search for various ores (generally the first one listed in \",{\"text\":\"EMI\",\"color\":\"aqua\"},\") to find the coin recipes for them. Alternatively, hover your cursor over a coin and press \",{\"keybind\":\"key.jei.showRecipe\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Show Recipe\\\" in keybind option\"}},\" to see what you can buy with it.\"]"
+				"[\"Search for various ores (generally the first one listed in \",{\"text\":\"EMI\",\"color\":\"aqua\"},\") to find the coin recipes for them. Alternatively, hover your cursor over a coin and press \",{\"keybind\":\"key.jei.showUses\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Show Uses\\\" in keybind option\"}},\" to see what you can buy with it.\"]"
 			]
 			hide_dependency_lines: true
 			icon: "kubejs:moni_dollar"
@@ -2181,7 +2181,7 @@
 		}
 		{
 			dependencies: ["7865CDE5CFE005DC"]
-			description: ["All furnaces from &bIron Furnaces&r can be augmented to have be &afaster&r, more &afuel efficient&r, and &asmelt multiple items at once&r!"]
+			description: ["All furnaces from &bIron Furnaces&r can be augmented to be &afaster&r, more &afuel efficient&r, and &asmelt multiple items at once&r!"]
 			id: "5D5C24BACC649253"
 			optional: true
 			rewards: [{
@@ -2208,7 +2208,7 @@
 		}
 		{
 			dependencies: ["7865CDE5CFE005DC"]
-			description: ["You can copy and paste settings from different &eFurnaces&r using a &6Furnaces Setting Linker&r"]
+			description: ["You can copy and paste settings from different &eFurnaces&r using a &6Furnace Setting Linker&r"]
 			id: "07508736CEE01C7F"
 			optional: true
 			rewards: [{
