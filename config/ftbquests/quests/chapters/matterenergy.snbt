@@ -243,7 +243,7 @@
 			description: [
 				"If you like exploring you can find them in meteors with a &aMeteor Compass&r."
 				""
-				"If you don't want to do that, or are having trouble finding one you need, feel free to etch them yourself with a &3Precision Laser Engraver&r."
+				"If you don't want to do that, or are having trouble finding one you need, feel free to etch them yourself with a &3Laser Engraver&r."
 			]
 			id: "7FC4297F2BC90F55"
 			rewards: [{
@@ -484,7 +484,7 @@
 				""
 				"Also, if you connect a gadget from &bBuilding Gadgets&r to the Pattern Provider, the gadget will pull materials straight from the attached AE2 network, &aNOT&r the Pattern Provider."
 				""
-				"There is information of the Gadgets, and how to connect them to inventories, in the &eInspector Gadget&r quest in &cGenesis&r in &cMatter Energy&r or &cThe Factory&r."
+				"There is information of the Gadgets, and how to connect them to inventories, in the &eInspector Gadget&r quest in &cEarly Game&r."
 			]
 			icon: "ae2:pattern_provider"
 			id: "1040D941027962B1"
@@ -599,8 +599,7 @@
 		{
 			dependencies: ["4174A6C6403DD245"]
 			description: [
-				"If you've tried to insert or remove a lot of items quickly, you might notice your ME network"
-				"&eflickers offline&r briefly. This is because digitizing and re-materializing items requires energy!"
+				"If you've tried to insert or remove a lot of items quickly, you might notice your ME network &eflickers offline&r briefly. This is because digitizing and re-materializing items requires energy!"
 				""
 				"Your network doesn't naturally store very much energy and the &6Energy Acceptor&r only intermittently refills the network's power. To keep things stable, you will need to add some energy storage in your network using &6Energy Cells&r."
 				""
@@ -776,13 +775,13 @@
 				"1175ED9EF0AB82F6"
 			]
 			description: [
-				"Firstly, you will need a &3Matter Condenser&r. Stick a &664k ME Storage Component&r in, change the mode to 'Singularity', and stuff lots of items (or fluids) in, &9done easily with a infinity cell&r."
+				"Firstly, you will need a &3Matter Condenser&r. Stick a &664k ME Storage Component&r in, change the mode to 'Singularity', and stuff lots of items (or fluids) in, &9done easily with an infinity cell&r."
 				""
 				"If you don't have that, you can provide it with the output of regular &6Water&r or &6Cobblestone&r generation methods."
 				"{@pagebreak}"
 				"After you have made the &eSingularity&r you will need from the &3Matter Condenser&r, you need to setup a &aQuantum Ring Multiblock&r. Build a 3 by 3 vertical ring with your &6Quantum Rings&r, leaving a hole in the middle. Finally, stick your &6Quantum Link Chamber&r in the hole, and connect it to your ME system. If you built it correctly, the textures of the rings should combine, leaving you with a &aMultiblock&r."
 				""
-				"Once you have the &eSingularity&r, you have to link them by throwing Ender Dust, The Singularity into any explosion."
+				"Once you have the &eSingularity&r, you have to link them by throwing Ender Dust and a Singularity into any explosion."
 				""
 				"&9With your Quantum-entangled Singularity, put one into the&r &6Quantum Link Chamber&r&9 of the &r&aQuantum Ring&r&9, and the other in the&r &6Wireless Terminal&r! "
 				""
@@ -796,7 +795,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "Accessing AE2 from anywhere is a bit more expensive and complex, but its well worth it."
+			subtitle: "Accessing AE2 from anywhere is a bit more expensive and complex, but it's well worth it."
 			tasks: [
 				{
 					count: 3L
@@ -842,7 +841,7 @@
 				""
 				"First, you will need a &6Wireless Access Point&r. Connect it to your network. Like the &6Terminal&r, the Wireless Access Point is a &emicropart&r, so you must place it on a &6ME Cable&r."
 				""
-				"Next, you need a &6Wireless Terminal&r, or its varients. You can have as many Wireless Terminals or their varients on the system at the same time."
+				"Next, you need a &6Wireless Terminal&r, or its variants. You can have as many Wireless Terminals or their variants on the system at the same time."
 				""
 				"Finally, put your &6Wireless Terminal&r into the &6Wireless Access Point&r. This will connect it to the system. "
 				"{@pagebreak}"
@@ -852,7 +851,7 @@
 			]
 			id: "1175ED9EF0AB82F6"
 			shape: "hexagon"
-			subtitle: "AE2 From Anywhere... Almost"
+			subtitle: "AE2 from anywhere... almost"
 			tasks: [{
 				id: "564AFB42CC6805FF"
 				item: {
@@ -922,15 +921,15 @@
 		{
 			dependencies: ["6F32A8739D8E792A"]
 			description: [
-				"This quest teaches you the basics about &bApplied Energistics 2&r autocrafting. If you are new this mod, it is highly recommended that you watch a video or &9&lread the builtin guide&r&r. Just remember that channels are disabled by default in this pack."
+				"This quest teaches you the basics about &bApplied Energistics 2&r autocrafting. If you are new to this mod, it is highly recommended that you watch a video or &9&lread the built-in guide&r&r. Just remember that channels are disabled by default in this pack."
 				""
 				"By now, you should have &6ME Pattern Providers, &6Molecular Assemblers, Crafting Units, Patterns&r and a &6Pattern Encoding Terminal&r. "
 				""
 				"First, for all crafts, you'll need a &eCrafting CPU&r. These are structures that must be in a rectangular prism, and can be only one block. These compose of:"
-				"* &6Crafting Storages&r, which determine how big a craft can be. For now, &64K Crafting Storages&r should be enough. You must have at least one per CPU."
+				"* &6Crafting Storages&r, which determine how big a craft can be. For now, &64k Crafting Storages&r should be enough. You must have at least one per CPU."
 				"* &6Co-Processing Units&r, which are used to craft multiple things at once. These are optional."
 				"* &6Crafting Monitors&r, used to see what is crafting. Not needed, and you can right-click on the CPU to find out what is crafting anyways, so this is pretty much just decoration."
-				"* &6Crafting Units&r, which aren't needed at all, and are just used to fill holes, if you have a lack of materials."
+				"* &6Crafting Units&r, which aren't needed at all, and are just used to fill holes if you have a lack of materials."
 				"{@pagebreak}"
 				"Second, you'll need the place for the autocrafting. For Crafting Table recipes, you'll need &6Molecular Assemblers&r. &6Pattern Providers&r are placed next to them. Autocrafting with &bGregTech&r is explained later, in the quest following this one."
 				""
@@ -1089,7 +1088,7 @@
 				"15AE607E2EDD0369"
 				"6169C04DF463502F"
 			]
-			description: ["Placing these in one of your &6ME Drives&r will provide your ME network with an &ainfinite&r amount of water or cobblestone. Use &6interfaces&r or &6export busses&r to provide said substances to whereever you need it."]
+			description: ["Placing these in one of your &6ME Drives&r will provide your ME network with an &ainfinite&r amount of water or cobblestone. Use &6interfaces&r or &6export buses&r to provide said substances to whereever you need it."]
 			id: "26C9F1514FD08C81"
 			rewards: [{
 				id: "144A810C0576A3E0"
@@ -1154,7 +1153,7 @@
 		{
 			dependencies: ["4174A6C6403DD245"]
 			description: [
-				"&6Certus quartz&r can be grown from &6Budding Certus Quartz&r blocks!"
+				"&6Certus Quartz&r can be grown from &6Budding Certus Quartz&r blocks!"
 				""
 				"Check out the &9&lingame guide&r&r or &eG&r on the item for specifics on how to get this set up."
 			]
@@ -1220,7 +1219,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "&9I dont hold patterns!"
+			subtitle: "&9I don't hold patterns!"
 			tasks: [{
 				id: "713C7B1C67D4771E"
 				item: {
@@ -1332,7 +1331,7 @@
 		}
 		{
 			dependencies: ["52837FD72580F141"]
-			description: ["The &aExtended Drive&r allows to store up to 20 Storage Disks"]
+			description: ["The &aExtended Drive&r allows storage of up to 20 Storage Disks"]
 			id: "58F73E3D1069F52C"
 			rewards: [{
 				count: 2
@@ -1462,7 +1461,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "&6Accumulation Processors&r are made from a &6Black Steel Plate&r, a &6Silicon Plate&r, and any tier three circuit."
+			subtitle: "&6Accumulation Processors&r are made from a &6Printed Accumulation Circuit&r, &6Printed Silicon&r, and any tier three circuit."
 			tasks: [{
 				id: "4B2E214B3A13DCD5"
 				item: "megacells:accumulation_processor"
@@ -1480,7 +1479,7 @@
 			description: [
 				"For the big autocrafters. "
 				""
-				"These Crafting Units can be crafted with &eMEGA Cell Storage Components&r to make even larger crafting units, or can be crafted with &6Engineering Processors&r and &6Standard AE2 Storage Components&r to make denser &9Crafting Co-Processors&r."
+				"These Crafting Units can be crafted with &eMEGA Cell Storage Components&r to make even larger crafting units, or with &6Engineering Processors&r and &6Standard AE2 Storage Components&r to make denser &9Crafting Co-Processors&r."
 			]
 			id: "0C08F09EBCDFDAD0"
 			rewards: [{
