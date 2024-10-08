@@ -107,7 +107,7 @@
 			description: [
 				"&oThis is an important part of a Processing Line. Visit the Processing Lines tab to have more info, useful tips, and a visual representation of how to passively automate this."
 				""
-				"&6Uraninite Ore&r is the first source of &6Pulsating Dust&r but is not a very good one in the long term. Instead, you should make &6Resonant Clathrates&r, which are an infinitely-renewable and effective source of Pulsating Dust."
+				"&6Uraninite Ore&r is the first source of &6Pulsating Dust&r, but is not a very good one in the long term. Instead, you should make &6Resonant Clathrates&r, which are an infinitely-renewable and effective source of Pulsating Dust."
 				""
 				"Resonant Clathrates are made by melting &6Ender Pearls&r with a &3Fluid Extractor&r into &9Resonant Ender&r, then mixing that with &6Nether Quartz&r in an MV or better &3Chemical Reactor&r. Smelting this clathrate gives Pulsating Dust."
 				""
@@ -349,7 +349,7 @@
 		{
 			dependencies: ["73C6E2724EBEC997"]
 			description: [
-				"Provide your &3Simulation Chamber&r with RF power and &6Pulsating Prediction Matrixes&r. Then insert a &6Data Model&r of your choice. The Simulation Chamber will consume Prediction Matrixes and a decent amount of power to begin simulating mob kills. This will generate &6Overworldian Matter&r and may occasionally provide you with &6mob predictions&r."
+				"Provide your &3Simulation Chamber&r with RF power and &6Pulsating Prediction Matrixes&r. Then insert a &6Data Model&r of your choice. The Simulation Chamber will consume Prediction Matrixes and a decent amount of power to begin simulating mob kills. This will generate &6Overworldian Matter&r and may occasionally provide you with &6mob Predictions&r."
 				""
 				"&6Overworldian Matter&r can be eaten to gain experience, or can be combined with other materials to obtain drops from Overworld mobs, and other forms of matter. With these drops and the other kinds of matter, you can then create Data Models for lots of other mob types!"
 			]
