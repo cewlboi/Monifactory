@@ -219,7 +219,7 @@ ServerEvents.recipes(event => {
             '  NN NN  ',
             '  NN NN  ',
             ' NUNNNUN ',
-            'PNCN NCNP',
+            'PNCNNNCNP',
             'NNRNANRNN',
             ' NNNNNNN ',
             'NW W W WN'
@@ -335,7 +335,7 @@ ServerEvents.recipes(event => {
             B: 'minecraft:quartz_block',
             Q: 'minecraft:quartz',
             C: '#gtceu:circuits/hv',
-            E: 'enderio:advanced_capacitor_bank'
+            E: 'enderio:octadic_capacitor'
         }
     )
 
